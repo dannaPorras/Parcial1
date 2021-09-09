@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+}
+
+#navegacion {
+    background-color: #eb0e19;
+}
+
+#navegacion nav a {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    margin-left: 40px;
+}
+
+h1 {
+    padding-top: 50px;
+    text-align: center;
+    float: center;
+    font-size: 40px;
+}
+
+#imagen {
+    float: left;
+    padding: 30px 90px;
+}
+
+#parrafos {
+    padding: 70px 20px;
+    overflow: hidden;
+    text-align: center;
+    font-weight: 600;
+}
+
+.footer {
+    height: 150px;
+    padding-left: 600px;
+    text-align: center;
+    padding-top: 35px;
+}
+
+h2 {
+    font-size: 15px;
+    color: aliceblue;
+}
